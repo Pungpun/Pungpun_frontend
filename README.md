@@ -3,7 +3,7 @@
 
 # Commit Rules
 
-| type | description |
+| type | description | 
 | --- | --- |
 | ADD ::  | 기능 추가 |
 | FIX :: | 수정 |
